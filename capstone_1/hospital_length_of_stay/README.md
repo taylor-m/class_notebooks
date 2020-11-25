@@ -13,3 +13,5 @@
 # Audience
 
     The audience of this research proposal would be the healthcare management industry for the reasons stated above, but mainly for optimization of efficiency to give more information in terms of prediction modeling for future resource allocation. This information will be valuable to prevent healthcare entities from being overwhelmed due to insufficient data for planning.
+
+presentation slides: https://docs.google.com/presentation/d/1BJgK09h3PZx1OWus9QZOfdsJvz98VNTdKFS8wxDCpGM/edit?usp=sharing
