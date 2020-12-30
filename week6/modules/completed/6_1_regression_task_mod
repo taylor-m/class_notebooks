@@ -1,0 +1,22 @@
+Assignment
+To close out this checkpoint, answer the following questions.
+
+1. Assume that you have World Bank data on financial, economic, and social indicators for several countries. You want to measure the factors that affect the level of development in these countries. To this end, you decide to use per capita income as a proxy for the development level, which is defined as the national income divided by the population. You want to use some features in your dataset to predict per capita income. Is this task a classification or a regression task? Why?
+*This is a regression task because you are trying to predict a continuous numeric variable.
+
+
+2. Which of the following arguments are false and why?
+- OLS is a special type of linear regression model.
+*OLS is a method that linear regression models use to predict/fit the data to determine the coefficients.
+
+- Regression models become useless if they don’t meet the assumptions of linear regression.
+*false, there are some things you can do to use a linear regression model even if all the assumptions aren't met.
+
+- Estimation and prediction are the same things in the context of linear regression models.
+*false, estimation is how the initial line is created and then predictions are made to generate new output based on test data.
+
+- Linear regression is only one kind of regression model. Regression problems can also be solved with other kinds of models like support vector machines or random forests.
+* SVM and RF models are non-linear classification models
+
+3. Assume that your project manager wants you to discover which free services your company offers make your customers buy more of your paid services. Formulate this task as a regression problem and write down the potential outcome and features that you’d like to work on.
+*The target var would be something like purchase amounts made by different customers and the input vars would be the use of certain free services by these customers. The relationship would be the use of free services vs. the resulting purchase amounts made by each customer.
